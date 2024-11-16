@@ -1,8 +1,6 @@
 package com.validations.entity;
 
-/**
- * @Authour - Digvijay Bakare
- **/
+
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
