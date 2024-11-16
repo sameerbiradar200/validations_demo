@@ -1,8 +1,5 @@
 package com.validations;
 
-/**
- * @Authour - Digvijay Bakare
- **/
 
 public class App {
     public static void main(String[] args) {
